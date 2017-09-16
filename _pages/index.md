@@ -12,9 +12,7 @@ TODO
 
 - key postman ideas
 - how did you find out about him
-- what are some interesting facts about him
-	- hated voicemail
-	- had a thing against cruise control
+
 
 {% endcomment %}
 
@@ -47,13 +45,17 @@ It was published in 1985. The foreword is brilliant. It's short, you can read it
 >
 > This book is about the possibility that Huxley, not Orwell, was right.
 
-The book gets even better. It'll take you a few hours to read it — a few hours to change your entire life. Seriously, why are you still here and not ordering it?
+The book gets even better. It'll only take you a few hours to read it — a few hours to change your entire life. Seriously, why are you still here and not ordering it?
 
 ## Okay, Then What?
 
 So you read AOtD and loved it. I'm not one to say "I told you so" but if I was this would totally be the place.
 
 Now you're ready for a few more reads. Ask and ye shall receive:
+
+[in progress]
+
+## Deep deep cuts
 
 [in progress]
 
@@ -65,11 +67,21 @@ Well the internet didn't exist for most of Postman's life, but there are a few t
 
 * [Technopoly](https://www.c-span.org/video/?31627-1/technopoly) with Brian Lamb in *C-SPAN Booknotes* (July 10, 1992 [transcript](https://www.c-span.org/video/transcript/?id=2534))
 
+* Are We Amusing Ourselves to Death? [Part 1](https://archive.org/details/openmind_ep1091) / [Part 2](https://archive.org/details/openmind_ep1092) with Richard D. Heffner on *Open Mind*
+
+* [Neil Postman on Cyberspace](https://www.youtube.com/watch?v=49rcVQ1vFAY) with Charlene Hunter Gault on PBS (1995)
+
+* [Lecture to Apple employees in LA](https://www.youtube.com/watch?v=QqxgCoHv_aE) (1993)
+
+* Lecture: [The Surrender of Culture to Technology](https://www.youtube.com/watch?v=hlrv7DIHllE) (1997)
+
+* [Neil Postman's Conscientious Objections](https://www.youtube.com/watch?v=0sLC9o4Y2bA) with Richard D. Heffner on *Open Mind*
+
 ### Interviews
 
 * [Stirring Up Trouble About Technology, Language, and Education](http://aurora.icaap.org/index.php/aurora/article/view/62/74) with Eugene Rubin in *Aurora* (Feb 2002)
-* 
 
+* [CBC Interview](http://allinonefilms.com/html_pages/postman.htm) http://allinonefilms.com/html_pages/postman.htm ([alt](http://web.archive.org/web/20030819223635/http://www.jour.unr.edu/linn/j705/postman-cbc.html))
 
 
 ## How does all this apply to the Internet?
@@ -79,6 +91,14 @@ Good question.
 Instead of trying to answer that myself, here are some others that have wrestled with the issue:
 
 [in progress]
+
+## Fun factoids about Postman
+
+* He hated answering machines. [src](http://allinonefilms.com/html_pages/postman.htm)
+
+* He had a thing against cruise control. He once asked a salesperson, "What is the problem to which this is the solution?" He salesperson responded, "It's for people who have trouble keeping their foot on the gas petal." Postman replied that he had never had that problem before.
+
+* He also had a thing against power windows. Same reason as crusie control.
 
 ## Appendix
 
