@@ -46,11 +46,19 @@ The book gets even better. It'll take you a few hours to read it — a few hours
 
 ## Okay, Then What?
 
-So you read AOtD and loved it. I told you, right? Now you're ready for a few more reads. Ask and ye shall receive:
+So you read AOtD and loved it. I'm not one to say "I told you so" but if I was this would totally be the place.
+
+Now you're ready for a few more reads. Ask and ye shall receive:
 
 [in progress]
 
-## 
+## What About the Internet?
+
+Good question.
+
+Instead of trying to answer that myself, here are some others that have wrestled with the issue:
+
+[in progress]
 
 
 
