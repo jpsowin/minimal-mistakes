@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 
-title: "The Neil Postman Information Page"
+title: "All The Things You Never Even Knew You Wanted To Know About Neil Postman"
 permalink: /
 ---
 
@@ -14,11 +14,40 @@ Oh man, if you don't know, your world is about to be rocked. Your mind melted. A
 
 Neil Postman (1931 — 2003) was an American critic and educator. Postman received his B.S. from the State University of New York at Fredonia and his M.A. and Ed.D. from Columbia University. He was the Paulette Goddard Chair of Media Ecology at New York University and chair of the Department of Culture and Communication. His pedagogical and scholarly interests included media and education, as can be seen in many of his seventeen books, including Amusing Ourselves to Death (1985), Conscientious Objections (1988), Technopoly: The Surrender of Culture to Technology (1992), and End of Education (1995). Postman died in 2003 of lung cancer. (source)
 
+
 ## Where Do I Start?
 
 I like your attitude.
 
-You start with his book Amusing Ourselves to Death.
+You start with his book Amusing Ourselves to Death:
+
+It was published in 1984. (And if you haven't read 1984, you should read it too.) The foreword is brilliant. It's short, you can read it right here:
+
+> We were keeping our eye on 1984. When the year came and the prophecy didn't, thoughtful Americans sang softly in praise of themselves. The roots of liberal democracy had held. Wherever else the terror had happened, we, at least, had not been visited by Orwellian nightmares.
+
+> But we had forgotten that alongside Orwell's dark vision, there was another - slightly older, slightly less well known, equally chilling: Aldous Huxley's Brave New World. Contrary to common belief even among the educated, Huxley and Orwell did not prophesy the same thing. Orwell warns that we will be overcome by an externally imposed oppression. But in Huxley's vision, no Big Brother is required to deprive people of their autonomy, maturity and history. As he saw it, people will come to love their oppression, to adore the technologies that undo their capacities to think.
+
+> What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give us so much that we would be reduced to passivity and egoism. Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance. Orwell feared we would become a captive culture. Huxley feared we would become a trivial culture, preoccupied with some equivalent of the feelies, the orgy porgy, and the centrifugal bumblepuppy. As Huxley remarked in Brave New World Revisited, the civil libertarians and rationalists who are ever on the alert to oppose tyranny "failed to take into account man's almost infinite appetite for distractions". In 1984, Huxley added, people are controlled by inflicting pain. In Brave New World, they are controlled by inflicting pleasure. In short, Orwell feared that what we hate will ruin us. Huxley feared that what we love will ruin us.
+
+> This book is about the possibility that Huxley, not Orwell, was right.
+
+The book gets even better. You won't regret reading it. Seriously, why are you still here and not ordering it?
+
+## Okay, Then What?
+
+So you read AOtD and loved it. I told you, right? Now you're ready for a few more reads. Ask and ye shall receive:
+
+[in progress]
+
+## 
+
+---
+- how did you find out about him
+- what are some interesting facts about him
+	- hated voicemail
+	- had a thing against cruise control
+
+---
 
 
 
