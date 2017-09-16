@@ -10,6 +10,7 @@ permalink: /
 
 TODO
 
+- key postman ideas
 - how did you find out about him
 - what are some interesting facts about him
 	- hated voicemail
@@ -18,6 +19,8 @@ TODO
 {% endcomment %}
 
 {% include toc %}
+
+[[ HEY HANG TIGHT this is currently being written ]] 
 
 ## Neil Who?!
 
@@ -60,11 +63,11 @@ Well the internet didn't exist for most of Postman's life, but there are a few t
 
 ### Videos
 
-* [Technopoly](https://www.c-span.org/video/?31627-1/technopoly) with Brian Lamb in *C-SPAN Booknotes*, July 10, 1992 ([transcript](https://www.c-span.org/video/transcript/?id=2534))
+* [Technopoly](https://www.c-span.org/video/?31627-1/technopoly) with Brian Lamb in *C-SPAN Booknotes* (July 10, 1992 [transcript](https://www.c-span.org/video/transcript/?id=2534))
 
 ### Interviews
 
-* [Stirring Up Trouble About Technology, Language, and Education](http://aurora.icaap.org/index.php/aurora/article/view/62/74) with Eugene Rubin in *Aurora*, Feb. 2002
+* [Stirring Up Trouble About Technology, Language, and Education](http://aurora.icaap.org/index.php/aurora/article/view/62/74) with Eugene Rubin in *Aurora* (Feb 2002)
 * 
 
 
@@ -78,6 +81,10 @@ Instead of trying to answer that myself, here are some others that have wrestled
 [in progress]
 
 ## Appendix
+
+What is an appendix for? Who knows. And yet, here it is.
+
+(Actually it's probably for replenishing gut bacteria. But that's a different kind of appendix than this one.)
 
 ### All the Postman books
 
