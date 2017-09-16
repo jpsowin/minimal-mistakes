@@ -10,17 +10,14 @@ permalink: /
 
 TODO
 
-- key postman ideas
-  - medium is the message
-  - 
-- how did you find out about him
-
+- How does all this apply to the Internet?
 
 {% endcomment %}
 
+
 {% include toc %}
 
-[[ HEY HANG TIGHT this is currently being written ]] 
+[[ HEY HEY HANG TIGHT this is currently being written ]] 
 
 ![Neil Postman](/images/postman.jpg)
 
@@ -52,6 +49,7 @@ He said a lot of things, thus those seventeen books. But here are some Big Ideas
 
 6. **How we talk is how we think.** "Any significant change in our ways of talking can lead to a change in point of view." This is why there's a battle over labels — abortionist or pro-choice or pro-life? Sodomite or homosexual or gay? Patriot or terrorist? The words we use convey meaning and if you can convince others to use your words, perspectives can shift.
 
+7. **Technology is a doubled-edged sword.** Technology giveth and taketh away. The printing press gave us ___ but we gave up our memories. Mobile phones gave us constant communication but now we're distracted by and never really alone. There is no such thing as a free lunch.
 
 ## What should I read first?
 
@@ -77,55 +75,47 @@ The book gets even better. It'll only take you a few hours to read it — a few 
 
 So you read AOtD and loved it. I'm not one to say "I told you so" but if I was this would totally be the place.
 
-Now you're ready for a few more reads. Ask and ye shall receive:
+Now you're ready for a few more reads.
+
+1. [Technopoly](http://www.amazon.com/dp/0679745408/?tag=bletters-20). This is easy to get and builds on the concepts in AOtD.
+2. 
 
 [in progress]
 
-## Deep deep cuts
-
-[in progress]
+## Deep cuts
 
 * Lewis Mumford, *Technics and Civilization*. This is mentioned in AOtD.
 * Daniel Boorstin, 
 
 ## What can I read online by him?
 
-The internet didn't exist for most of Postman's life, but there are a few things that have made its way to the interwebs:
+The internet didn't exist for most of Postman's life (it was called "cyberspace" or "the information superhighway" back in his day), but there are a few things that have made its way to the interwebs:
+
+### Articles
+
+
 
 ### Videos
 
 * [Technopoly](https://www.c-span.org/video/?31627-1/technopoly) with Brian Lamb in *C-SPAN Booknotes* (July 10, 1992 [transcript](https://www.c-span.org/video/transcript/?id=2534))
-
 * Are We Amusing Ourselves to Death? [Part 1](https://archive.org/details/openmind_ep1091) / [Part 2](https://archive.org/details/openmind_ep1092) with Richard D. Heffner on *Open Mind*
-
 * [Neil Postman on Cyberspace](https://www.youtube.com/watch?v=49rcVQ1vFAY) with Charlene Hunter Gault on PBS (1995)
-
 * [Lecture to Apple employees in LA](https://www.youtube.com/watch?v=QqxgCoHv_aE) (1993)
-
 * Lecture: [The Surrender of Culture to Technology](https://www.youtube.com/watch?v=hlrv7DIHllE) (1997)
-
 * [Neil Postman's Conscientious Objections](https://www.youtube.com/watch?v=0sLC9o4Y2bA) with Richard D. Heffner on *Open Mind*
 
 ### Interviews
 
 * [Stirring Up Trouble About Technology, Language, and Education](http://aurora.icaap.org/index.php/aurora/article/view/62/74) with Eugene Rubin in *Aurora* (Feb 2002)
+* [CBC Interview](http://allinonefilms.com/html_pages/postman.htm) ([alt](http://web.archive.org/web/20030819223635/http://www.jour.unr.edu/linn/j705/postman-cbc.html))
 
-* [CBC Interview](http://allinonefilms.com/html_pages/postman.htm) http://allinonefilms.com/html_pages/postman.htm ([alt](http://web.archive.org/web/20030819223635/http://www.jour.unr.edu/linn/j705/postman-cbc.html))
-
-
-## How does all this apply to the Internet?
-
-Good question.
-
-Instead of trying to answer that myself, here are some others that have wrestled with the issue:
-
-[in progress]
+{% comment %}
 
 ## Factoids about Postman
 
-* He hated answering machines. [src](http://allinonefilms.com/html_pages/postman.htm)
+* He hated answering machines. He thought they were rude.
 
-* He had a thing against cruise control. He once asked a salesperson, "What is the problem to which this is the solution?" He salesperson responded, "It's for people who have trouble keeping their foot on the gas petal." Postman replied that he had never had that problem before.
+* He had a thing against cruise control. He once asked a salesperson, "What is the problem to which cruise control is the solution?" The salesperson responded, "It's for people who have trouble keeping their foot on the gas petal." Postman replied that he had never had that problem before.
 
 * He also had a thing against power windows. Same reason as cruise control.
 
@@ -137,12 +127,12 @@ What is an appendix for? Who knows. And yet, here it is.
 
 ### All the Postman books
 
-You can see a [selected bibliography](https://en.wikipedia.org/wiki/Neil_Postman#Selected_bibliography) on Wikipedia. I'd sure pay a dollar to know what Neil would've thought about Wikipedia. The thing that really shouldn't work and yet works so well it has replaced encyclopedias.
+You can see a [selected bibliography](https://en.wikipedia.org/wiki/Neil_Postman#Selected_bibliography) on Wikipedia. I'd sure pay a dollar to know what Neil would've thought about Wikipedia — the thing that shouldn't work yet works so well it's replaced encyclopedias.
 
 
 ### Who made this?
 
-Hey there, I'm Josh Sowin. I created this site back in 2005 because of the impact Postman had on me. These days I'm the CEO of [Brainjolt](http://brainjoltmedia.com), a viral content company that reaches half of America. We entertain people. Sure, pass me a slice of that irony pie.
+Oh hai, I'm Josh Sowin. I created this site back in 2005 because of the impact Postman had on me. These days I'm the CEO of [Brainjolt](http://brainjoltmedia.com), a viral content company that reaches half of America. We entertain people by telling engaging stories for social media. Sure, pass me a slice of that irony pie.
 
 But seriously, please enjoy comfort content in reasonable quantities.
 
