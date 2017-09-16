@@ -39,14 +39,16 @@ He was a professor of [media ecology](https://en.wikipedia.org/wiki/Media_ecolog
 
 He said a lot of things, thus those seventeen books. But there are some Big Ideas that stick out:
 
-1. **The medium is the message.** He got this from McLuhan. Every medium — TV, radio, the written word, oral transmission — changes and biases the message itself. The written word, for example, tends to bias the message towards linear thinking, logic, exposition, and delayed response. Video tends to bias towards what he called the "peek-a-book world" which trivial content vanishes in seconds, camera angles change constantly, and the viewer has a hard time turning away from it no matter what is on... because it's just so darn entertaining. These biases mean that news from a newspaper and a television, even with the same subject, have two different messages.
+1. **The medium is the message.** Borrowing from McLuhan, he explained that every medium — TV, radio, the written word, oral transmission — changes and biases the message itself. The written word, for example, tends to bias the message towards linear thinking, logic, exposition, and delayed response. Video tends to bias towards what he called the "peek-a-book world" which trivial content vanishes in seconds, camera angles change constantly, and the viewer has a hard time turning away from it no matter what is on... because it's just so darn entertaining. These biases mean that news from a newspaper and a television, even with the same subject, have two different messages.
 
-2. **Education ≠ entertainment.** Shows like Sesame Street "undermines what the traditional idea of schooling represents. It encourages children to love school only if school is like Sesame Street." School is about asking questions; TV can be asked nothing. School is about the development of language; TV demands attention to images. TV is always fun and entertaining; serious education is not. Postman was extremely worried that by equating education with entertainment children won't be able to learn anything rigorous because it's just not entertaining enough.
+2. **Education ≠ entertainment.** Shows like Sesame Street undermine schooling — "it encourages children to love school only if school is like Sesame Street." School is about asking questions; TV is about passive consumption. School is about the development of language; TV demands attention to images. TV is always fun and entertaining; serious education is not. Postman was extremely worried that by equating education with entertainment children wouldn't learn anything rigorous because it's just entertaining enough. "Sesame Street doesn't teach children to love school or anything about school. It teaches them to love television."
 
-3. [in progress]
+3. **Teach subjects as history.** “Every teacher," Postman said, "must be a history teacher." Every subject has a fascinating history. Facts and dates are memorization not understanding. To teach a subject without "also teaching what we once knew, or thought we knew, is to reduce knowledge to a mere consumer product. It is to deprive students of a sense of the meaning of what we know, and of how we know. To teach about the atom without Democritus, to teach about electricity without Faraday, to teach about political science without Aristotle or Machiavelli, to teach about music without Haydn, is to refuse our students access to The Great Conversation. It is to deny them knowledge of their roots, about which no other social institution is at present concerned."
+
+4. **Fear Huxley's future, not Orwell's.** Everyone is worried about Big Brother... but we're our own worst enemy. We live in a society where we can spend hours on phones entertaining ourselves. We have access to TV and videos in any location. We can amuse ourselves to death.
 
 
-## Where do I start?
+## What should I read first?
 
 I like your attitude, wanting to dig in like that. You're a curious person. Respect.
 
