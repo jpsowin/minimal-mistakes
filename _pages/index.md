@@ -17,19 +17,17 @@ TODO
 
 {% include toc %}
 
-[[ HEY HEY HANG TIGHT this is currently being written ]] 
-
 ![Neil Postman](/images/postman.jpg)
 
 ## Neil Who?!
 
 Oh man, if you don't know, your world is about to be rocked. Your mind melted. All of that.
 
-Neil Postman (1931 — 2003) was an American cultural critic and educator. He wrote seventeen books. SEVENTEEN. His most famous was [Amusing Ourselves to Death](http://www.amazon.com/dp/014303653X/?tag=bletters-20), a screed against television and how it biases any message on it towards entertainment. Just imagine FOX News during an election and you'll get the idea.
+Neil Postman (1931 — 2003) was an American cultural critic and educator. He wrote seventeen books. His most famous (and controversial) was [Amusing Ourselves to Death](http://www.amazon.com/dp/014303653X/?tag=bletters-20), a screed against television and how it turns everything on it into banal entertainment — including education and news. Just imagine FOX News during an election and you'll get the idea.
 
 His interests were all over the place. He wrote on the [disappearance of childhood](http://www.amazon.com/dp/0679751661/?tag=bletters-20), [reforming public education](http://www.amazon.com/dp/0679750312/?tag=bletters-20), [postmodernism](http://www.amazon.com/dp/0375701273/?tag=bletters-20), [semantics and linguistics](http://www.amazon.com/dp/0440015545/?tag=bletters-20), and [technopolies](http://www.amazon.com/dp/0679745408/?tag=bletters-20). He also wrote essays and lectured about lots of other things that you can find here if you scroll down long enough.
 
-He was a professor of [media ecology](https://en.wikipedia.org/wiki/Media_ecology) at New York University and died in 2003 of lung cancer.
+He was a professor of [media ecology](https://en.wikipedia.org/wiki/Media_ecology) at New York University and died in 2003.
 
 
 ## What did he say?
@@ -59,7 +57,7 @@ There's no question where you should start: his book [Amusing Ourselves to Death
 
 ![Amusing Ourselves to Death Book Cover](https://images-na.ssl-images-amazon.com/images/I/5159tELPeUL._SX326_BO1,204,203,200_.jpg)
 
-It was published in 1985. The foreword is brilliant. It's short, you can read it right here:
+It was published in 1985. The foreword is brilliant. It's short, here's an excerpt:
 
 > We were keeping our eye on 1984. When the year came and the prophecy didn't, thoughtful Americans sang softly in praise of themselves. The roots of liberal democracy had held. Wherever else the terror had happened, we, at least, had not been visited by Orwellian nightmares.
 >
@@ -78,22 +76,31 @@ So you read AOtD and loved it. I'm not one to say "I told you so" but if I was t
 Now you're ready for a few more reads.
 
 1. [Technopoly](http://www.amazon.com/dp/0679745408/?tag=bletters-20). This is easy to get and builds on the concepts in AOtD.
-2. 
-
+2. [The Disappearance of Childhood](http://www.amazon.com/dp/0679751661/?tag=bletters-20).
 [in progress]
+
+{% comment %}
 
 ## Deep cuts
 
 * Lewis Mumford, *Technics and Civilization*. This is mentioned in AOtD.
 * Daniel Boorstin, 
 
-## What can I read online by him?
+{% endcomment %}
 
-The internet didn't exist for most of Postman's life (it was called "cyberspace" or "the information superhighway" back in his day), but there are a few things that have made its way to the interwebs:
+## What's online by him?
+
+The internet didn't exist for most of Postman's life (it was called "cyberspace" or the "information superhighway" back in his day), but there are a few things that have made its way to the interwebs:
 
 ### Articles
 
-
+* [My Graduation Speech](http://www.ditext.com/postman/mgs.html)
+* Propaganda (*ETC* Vol. 36)
+* Language Education in a Knowledge Context (*ETC* Vol. 37)
+* Social Science as Theology (*ETC* Vol. 41)
+* [Science and the Story That We Need](http://www.firstthings.com/article.php3?id_article=3631) (*First Things*, 1997)
+* [Profile of Philo Farnsworth](http://www.time.com/time/time100/scientist/profile/farnsworth.html) (*Time Magazine*, 1999)
+* [The Educationist as Painkiller]
 
 ### Videos
 
@@ -109,7 +116,6 @@ The internet didn't exist for most of Postman's life (it was called "cyberspace"
 * [Stirring Up Trouble About Technology, Language, and Education](http://aurora.icaap.org/index.php/aurora/article/view/62/74) with Eugene Rubin in *Aurora* (Feb 2002)
 * [CBC Interview](http://allinonefilms.com/html_pages/postman.htm) ([alt](http://web.archive.org/web/20030819223635/http://www.jour.unr.edu/linn/j705/postman-cbc.html))
 
-{% comment %}
 
 ## Factoids about Postman
 
@@ -119,7 +125,6 @@ The internet didn't exist for most of Postman's life (it was called "cyberspace"
 
 * He also had a thing against power windows. Same reason as cruise control.
 
-{% endcomment %}
 
 ## Appendix
 
@@ -138,4 +143,4 @@ Oh hai, I'm Josh Sowin. I created this site back in 2005 because of the impact P
 
 But seriously, please enjoy comfort content in reasonable quantities.
 
-Life is short. Do things that matter.
+**Life is short. Do things that matter.**
