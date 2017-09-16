@@ -11,6 +11,8 @@ permalink: /
 TODO
 
 - key postman ideas
+  - medium is the message
+  - 
 - how did you find out about him
 
 
@@ -24,7 +26,11 @@ TODO
 
 Oh man, if you don't know, your world is about to be rocked. Your mind melted. All of that.
 
-Neil Postman (1931 — 2003) was an American critic and educator. Postman received his B.S. from the State University of New York at Fredonia and his M.A. and Ed.D. from Columbia University. He was the Paulette Goddard Chair of Media Ecology at New York University and chair of the Department of Culture and Communication. His pedagogical and scholarly interests included media and education, as can be seen in many of his seventeen books, including Amusing Ourselves to Death (1985), Conscientious Objections (1988), Technopoly: The Surrender of Culture to Technology (1992), and End of Education (1995). Postman died in 2003 of lung cancer. (source)
+Neil Postman (1931 — 2003) was an American cultural critic and educator. He wrote seventeen books. SEVENTEEN. His most famous was [Amusing Ourselves to Death](http://www.amazon.com/dp/014303653X/?tag=bletters-20), a screed against television and how it biases any message on it towards entertainment. Just imagine FOX News during an election and you'll get the idea.
+
+His interests were all over the place. He wrote on the [disappearance of childhood](http://www.amazon.com/dp/0679751661/?tag=bletters-20), on [reforming public education](http://www.amazon.com/dp/0679750312/?tag=bletters-20), on [postmodernism](http://www.amazon.com/dp/0375701273/?tag=bletters-20), on [semantics and linguistics](http://www.amazon.com/dp/0440015545/?tag=bletters-20), and [technopolies](http://www.amazon.com/dp/0679745408/?tag=bletters-20). He also wrote essays and gave lectures about lots of other things that you can find if you scroll down long enough.
+
+He was a professor of [media ecology](https://en.wikipedia.org/wiki/Media_ecology) at New York University and died of lung cancer.
 
 
 ## Where Do I Start?
@@ -61,7 +67,7 @@ Now you're ready for a few more reads. Ask and ye shall receive:
 
 ## What can I read online by him?
 
-Well the internet didn't exist for most of Postman's life, but there are a few things that have made its way to the interwebs:
+The internet didn't exist for most of Postman's life, but there are a few things that have made its way to the interwebs:
 
 ### Videos
 
@@ -92,19 +98,19 @@ Instead of trying to answer that myself, here are some others that have wrestled
 
 [in progress]
 
-## Fun factoids about Postman
+## Factoids about Postman
 
 * He hated answering machines. [src](http://allinonefilms.com/html_pages/postman.htm)
 
 * He had a thing against cruise control. He once asked a salesperson, "What is the problem to which this is the solution?" He salesperson responded, "It's for people who have trouble keeping their foot on the gas petal." Postman replied that he had never had that problem before.
 
-* He also had a thing against power windows. Same reason as crusie control.
+* He also had a thing against power windows. Same reason as cruise control.
 
 ## Appendix
 
 What is an appendix for? Who knows. And yet, here it is.
 
-(Actually it's probably for replenishing gut bacteria. But that's a different kind of appendix than this one.)
+(Actually it's probably for replenishing gut bacteria. But that's a different kind of appendix.)
 
 ### All the Postman books
 
