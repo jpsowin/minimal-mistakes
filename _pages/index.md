@@ -68,9 +68,12 @@ Instead of trying to answer that myself, here are some others that have wrestled
 
 ## Appendix
 
-### Full Bibliography
+### All the Postman books
 
-### 
+Here's the full Neil Postman bibliography:
 
 
 
+### Who made this?
+
+Hey there, I'm Josh Sowin. I'm the CEO of Brainjolt, a viral content company that reaches half of America. We entertain people. Sure, I'll have a slice of that irony pie, thanks. But seriously, please enjoy comfort content in reasonable quantities. Life is short. Do things that matter.
