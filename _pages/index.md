@@ -108,10 +108,9 @@ What is an appendix for? Who knows. And yet, here it is.
 
 ### All the Postman books
 
-Here's the full Neil Postman bibliography:
+You can see a [selected bibliography](https://en.wikipedia.org/wiki/Neil_Postman#Selected_bibliography) on Wikipedia. I'd sure pay a dollar to know what Neil would've thought about Wikipedia. The thing that really shouldn't work and yet works so well it has replaced encyclopedias.
 
 
+### Who made this page?
 
-### Who made this?
-
-Hey there, I'm Josh Sowin. I'm the CEO of Brainjolt, a viral content company that reaches half of America. We entertain people. Sure, I'll have a slice of that irony pie, thanks. But seriously, please enjoy comfort content in reasonable quantities. Life is short. Do things that matter.
+Hey there, I'm Josh Sowin. I created this page back in 2005 because of the impact Postman had on me. These days I'm the CEO of Brainjolt, a viral content company that reaches half of America. We entertain people. Sure, I'll have a slice of that irony pie. But seriously, please enjoy comfort content in reasonable quantities. Life is short. Do things that matter.
