@@ -34,7 +34,7 @@ There's no question where you should start: his book [Amusing Ourselves to Death
 
 ![Amusing Ourselves to Death Book Cover](https://images-na.ssl-images-amazon.com/images/I/5159tELPeUL._SX326_BO1,204,203,200_.jpg)
 
-It was published in 1984. (And if you haven't read 1984, you should read it too.) The foreword is brilliant. It's short, you can read it right here:
+It was published in 1985. The foreword is brilliant. It's short, you can read it right here:
 
 > We were keeping our eye on 1984. When the year came and the prophecy didn't, thoughtful Americans sang softly in praise of themselves. The roots of liberal democracy had held. Wherever else the terror had happened, we, at least, had not been visited by Orwellian nightmares.
 
@@ -58,7 +58,9 @@ Now you're ready for a few more reads. Ask and ye shall receive:
 
 Well the internet didn't exist for most of Postman's life, but there are a few things that have made its way to the interwebs:
 
+### Interviews
 
+* [Stirring Up Trouble About Technology, Language, and Education](http://aurora.icaap.org/index.php/aurora/article/view/62/74) by Eugene Rubin in *Aurora*, Feb. 2002
 
 ## How does all this apply to the Internet?
 
