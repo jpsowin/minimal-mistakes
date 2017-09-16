@@ -52,7 +52,13 @@ Now you're ready for a few more reads. Ask and ye shall receive:
 
 [in progress]
 
-## What About the Internet?
+## What can I read online by him?
+
+Well the internet didn't exist for most of Postman's life, but there are a few things that have made its way to the interwebs:
+
+
+
+## How does all this apply to the Internet?
 
 Good question.
 
@@ -60,7 +66,11 @@ Instead of trying to answer that myself, here are some others that have wrestled
 
 [in progress]
 
+## Appendix
 
+### Full Bibliography
+
+### 
 
 
 
