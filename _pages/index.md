@@ -6,6 +6,17 @@ title: "All The Things You Never Even Knew You Wanted To Know About Neil Postman
 permalink: /
 ---
 
+{% comment %}
+
+TODO
+
+- how did you find out about him
+- what are some interesting facts about him
+	- hated voicemail
+	- had a thing against cruise control
+
+{% endcomment %}
+
 {% include toc %}
 
 ## Neil Who?!
@@ -17,9 +28,9 @@ Neil Postman (1931 — 2003) was an American critic and educator. Postman receiv
 
 ## Where Do I Start?
 
-I like your attitude.
+I like your attitude, wanting to dig in like that. You're a curious person. I respect that.
 
-You start with his book Amusing Ourselves to Death:
+There's no question where you should start: his book Amusing Ourselves to Death:
 
 It was published in 1984. (And if you haven't read 1984, you should read it too.) The foreword is brilliant. It's short, you can read it right here:
 
@@ -31,7 +42,7 @@ It was published in 1984. (And if you haven't read 1984, you should read it too.
 
 > This book is about the possibility that Huxley, not Orwell, was right.
 
-The book gets even better. You won't regret reading it. Seriously, why are you still here and not ordering it?
+The book gets even better. It'll take you a few hours to read it — a few hours to change your entire life. Seriously, why are you still here and not ordering it?
 
 ## Okay, Then What?
 
@@ -41,13 +52,7 @@ So you read AOtD and loved it. I told you, right? Now you're ready for a few mor
 
 ## 
 
----
-- how did you find out about him
-- what are some interesting facts about him
-	- hated voicemail
-	- had a thing against cruise control
 
----
 
 
 
