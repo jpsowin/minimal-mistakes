@@ -28,9 +28,11 @@ Neil Postman (1931 — 2003) was an American critic and educator. Postman receiv
 
 ## Where Do I Start?
 
-I like your attitude, wanting to dig in like that. You're a curious person. I respect that.
+I like your attitude, wanting to dig in like that. You're a curious person. Respect.
 
-There's no question where you should start: his book Amusing Ourselves to Death:
+There's no question where you should start: his book [Amusing Ourselves to Death](http://www.amazon.com/dp/014303653X/?tag=bletters-20):
+
+![Amusing Ourselves to Death Book Cover](https://images-na.ssl-images-amazon.com/images/I/5159tELPeUL._SX326_BO1,204,203,200_.jpg)
 
 It was published in 1984. (And if you haven't read 1984, you should read it too.) The foreword is brilliant. It's short, you can read it right here:
 
