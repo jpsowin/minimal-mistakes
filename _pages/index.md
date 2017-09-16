@@ -58,9 +58,16 @@ Now you're ready for a few more reads. Ask and ye shall receive:
 
 Well the internet didn't exist for most of Postman's life, but there are a few things that have made its way to the interwebs:
 
+### Videos
+
+* [Technopoly](https://www.c-span.org/video/?31627-1/technopoly) with Brian Lamb in *C-SPAN Booknotes*, July 10, 1992 ([transcript](https://www.c-span.org/video/transcript/?id=2534))
+
 ### Interviews
 
-* [Stirring Up Trouble About Technology, Language, and Education](http://aurora.icaap.org/index.php/aurora/article/view/62/74) by Eugene Rubin in *Aurora*, Feb. 2002
+* [Stirring Up Trouble About Technology, Language, and Education](http://aurora.icaap.org/index.php/aurora/article/view/62/74) with Eugene Rubin in *Aurora*, Feb. 2002
+* 
+
+
 
 ## How does all this apply to the Internet?
 
