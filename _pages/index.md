@@ -23,7 +23,7 @@ TODO
 
 Oh man, if you don't know, your world is about to be rocked. Your mind melted. All of that.
 
-Neil Postman (1931 — 2003) was an American cultural critic and educator. He wrote seventeen books. His most famous (and controversial) was [Amusing Ourselves to Death](http://www.amazon.com/dp/014303653X/?tag=bletters-20), a screed against television and how it turns everything on it into banal entertainment — including education and news. Just imagine FOX News during an election and you'll get the idea.
+Neil Postman (1931 — 2003) was an American cultural critic and educator. He wrote seventeen books. His most famous (and controversial) was [Amusing Ourselves to Death](http://www.amazon.com/dp/014303653X/?tag=bletters-20), a screed against television and how it turns everything into banal entertainment — including education and news. Just imagine FOX News during an election cycle and you'll get the idea.
 
 His interests were all over the place. He wrote on the [disappearance of childhood](http://www.amazon.com/dp/0679751661/?tag=bletters-20), [reforming public education](http://www.amazon.com/dp/0679750312/?tag=bletters-20), [postmodernism](http://www.amazon.com/dp/0375701273/?tag=bletters-20), [semantics and linguistics](http://www.amazon.com/dp/0440015545/?tag=bletters-20), and [technopolies](http://www.amazon.com/dp/0679745408/?tag=bletters-20). He also wrote essays and lectured about lots of other things that you can find here if you scroll down long enough.
 
@@ -41,7 +41,6 @@ He said a lot of things, thus those seventeen books. But here are some Big Ideas
 3. **Teach subjects as history.** “Every teacher," Postman said, "must be a history teacher." Every subject has a fascinating history. Facts and dates are memorization not understanding. To teach a subject without "also teaching what we once knew, or thought we knew, is to reduce knowledge to a mere consumer product. It is to deprive students of a sense of the meaning of what we know, and of how we know. To teach about the atom without Democritus, to teach about electricity without Faraday, to teach about political science without Aristotle or Machiavelli, to teach about music without Haydn, is to refuse our students access to The Great Conversation. It is to deny them knowledge of their roots, about which no other social institution is at present concerned."
 
 4. **Fear Huxley's future, not Orwell's.** Everyone is worried about Big Brother... but we're our own worst enemy. We live in a society where we can spend hours on phones entertaining ourselves. We have access to TV and videos in any location. We can amuse ourselves to death.
-
 
 5. **To ask is to break the spell.** Blind belief and passive consumption can be broken through the simple act of asking questions. "No medium is excessively dangerous if its users understand what its dangers are," he said. Healthy skepticism is encouraged.
 
@@ -69,7 +68,7 @@ It was published in 1985. The foreword is brilliant. It's short, here's an excer
 
 The book gets even better. It'll only take you a few hours to read it — a few hours to change your entire life. Seriously, why are you still here and not ordering it?
 
-## Okay, Then What?
+## Okay, then what?
 
 So you read AOtD and loved it. I'm not one to say "I told you so" but if I was this would totally be the place.
 
@@ -94,13 +93,13 @@ The internet didn't exist for most of Postman's life (it was called "cyberspace"
 
 ### Articles
 
+* [The Educationist as Painkiller](articles/Postman-TheEducationistAsPainkiller.pdf) (1988)
 * [My Graduation Speech](http://www.ditext.com/postman/mgs.html)
-* Propaganda (*ETC* Vol. 36)
-* Language Education in a Knowledge Context (*ETC* Vol. 37)
-* Social Science as Theology (*ETC* Vol. 41)
+* [Propaganda](articles/etc_36-2-postman.pdf) (*ETC* Vol. 36)
+* [Language Education in a Knowledge Context](articles/etc_37-1-postman.pdf) (*ETC* Vol. 37)
+* [Social Science as Theology](articles/etc_41-1-postman.pdf) (*ETC* Vol. 41)
 * [Science and the Story That We Need](http://www.firstthings.com/article.php3?id_article=3631) (*First Things*, 1997)
 * [Profile of Philo Farnsworth](http://www.time.com/time/time100/scientist/profile/farnsworth.html) (*Time Magazine*, 1999)
-* [The Educationist as Painkiller]
 
 ### Videos
 
