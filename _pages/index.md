@@ -78,8 +78,6 @@ Now you're ready for a few more reads.
 2. [The Disappearance of Childhood](http://www.amazon.com/dp/0679751661/?tag=bletters-20).
 3. Follow up on some of the books mentioned in AOtD, especially Boorstin and Mumford.
 
-{% comment %}
-
 ## What's online by him?
 
 The internet didn't exist for most of Postman's life (it was called "cyberspace" or the "information superhighway" back in his day), but there are a few things that have made its way to the interwebs:
