@@ -52,7 +52,7 @@ He said a lot of things, thus those seventeen books. But here are some Big Ideas
 
 I like your attitude, wanting to dig in like that. You're a curious person. Respect.
 
-There's no question where you should start: his book [Amusing Ourselves to Death](http://www.amazon.com/dp/014303653X/?tag=bletters-20):
+You should start with [Amusing Ourselves to Death](http://www.amazon.com/dp/014303653X/?tag=bletters-20):
 
 ![Amusing Ourselves to Death Book Cover](https://images-na.ssl-images-amazon.com/images/I/5159tELPeUL._SX326_BO1,204,203,200_.jpg)
 
@@ -66,7 +66,7 @@ It was published in 1985. The foreword is brilliant. It's short, here's an excer
 >
 > This book is about the possibility that Huxley, not Orwell, was right.
 
-The book gets even better. It'll only take you a few hours to read it — a few hours to change your entire life. Seriously, why are you still here and not ordering it?
+It gets even better and it'll only take you a few hours to read it — a few hours to change your entire life. Seriously, why are you still here and not ordering it?
 
 ## Okay, then what?
 
@@ -76,16 +76,9 @@ Now you're ready for a few more reads.
 
 1. [Technopoly](http://www.amazon.com/dp/0679745408/?tag=bletters-20). This is easy to get and builds on the concepts in AOtD.
 2. [The Disappearance of Childhood](http://www.amazon.com/dp/0679751661/?tag=bletters-20).
-[in progress]
+3. Follow up on some of the books mentioned in AOtD, especially Boorstin and Mumford.
 
 {% comment %}
-
-## Deep cuts
-
-* Lewis Mumford, *Technics and Civilization*. This is mentioned in AOtD.
-* Daniel Boorstin, 
-
-{% endcomment %}
 
 ## What's online by him?
 
